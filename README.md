@@ -4,9 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
-[Live Demo Click Here 🚀🚀](https://tesla-clone-5b6ed.web.app)
-
-<img src="./src/assets/demo1.png" />
+[Live Demo Click Here 🚀🚀](https://facebook-clone-610da.web.app)
 
 ## Available Scripts
 
